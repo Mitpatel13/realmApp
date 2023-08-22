@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-pkydq",
+    "appUrl": "https://realm.mongodb.com/groups/64de088013b9cb40e2bc253e/apps/64e37632e0b5c4bc8c93f1ed",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64de088013b9cb40e2bc253e/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
